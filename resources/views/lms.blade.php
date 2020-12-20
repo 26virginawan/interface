@@ -53,8 +53,7 @@
                         <div class="dashboard_graph">
                             <div class="row x_title">
                                 <div class="col-md-6">
-                                    <h3>Selamat Datang</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit </p>
+                                    <h1>Selamat Datang,</h1>
                                 </div>
                             </div>
                             <div class="row ">

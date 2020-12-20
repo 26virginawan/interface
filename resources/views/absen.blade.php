@@ -53,7 +53,7 @@
                         <div class="dashboard_graph">
                             <div class="row ">
                                 <div class="col-md-6">
-                                    <h3>Matematika</h3>
+                                    <h1>Matematika</h1>
                                 </div>
                             </div>
                             <div class="row x_title ">

@@ -13,6 +13,7 @@
         <!-- Styles -->
         <style>
             html, body {
+                background-image: url("/img/login.jpg");
                 background-color: #fff;
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
@@ -47,9 +48,10 @@
 
             .title {
                 font-size: 84px;
+                font-weight: bold;
+                color: black;
+                text-shadow: 6px 4px 1px grey;
             }
-
-             
 
             .links > a {
                 color: #fff;

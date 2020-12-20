@@ -81,7 +81,7 @@
                             <p>asdasdasdasdas</p>
                             <p>asdasdasdasdadasdas</p>
                             <video width="400px" height="200px" controls>
-                                <source src="https://www.youtube.com/watch?v=IMe0c7Uzwes">
+                                <source src="https://youtu.be/nq2jD-EouJ0">
                             </video>
                             <br>
                             <br>

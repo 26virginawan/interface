@@ -89,11 +89,8 @@
                                     <br>
                                     <a href="/jawaban">
                                         <h4><img src="img/png2/tugas.png" style=" float:left;" />
-                                            Tugas Pertambahan
+                                            Tugas
                                     </a>
-                                    <h2>Lorem ipsum dolor sit, amet consectetur adipisicing elit.<br> Ducimus
-                                        explicabo
-                                        nesciunt ullam qui porro est veniam quam eum expedita?</h2>
                                     </h4>
                                 </div>
                             </div>
@@ -104,12 +101,25 @@
                                         Perkalian dan Pembagian
                                     </h4>
                                     <br>
-                                    <h4><img src="img/png2/tugas.png" style=" float:left;" />
-                                        Tugas Pembagian
-                                        <h2>Lorem ipsum dolor sit, amet consectetur adipisicing elit.<br> Ducimus
-                                            explicabo
-                                            nesciunt ullam qui porro est veniam quam eum expedita?</h2>
+                                    <a href="/jawaban">
+                                        <h4><img src="img/png2/tugas.png" style=" float:left;" />
+                                            Tugas
+                                    </a>
+                                        </h4>
+                                </div>
+                            </div>
+                            <div class="row x_title">
+                                <div class="col-md-6">
+                                    <h4> Minggu 3 </h4> <br>
+                                    <h4><img src="img/png2/materi.png" style=" float:left;" />
+                                        Bangun Datar
                                     </h4>
+                                    <br>
+                                    <a href="/jawaban">
+                                        <h4><img src="img/png2/tugas.png" style=" float:left;" />
+                                            Tugas
+                                    </a>
+                                        </h4>
                                 </div>
                             </div>
                         </div>

@@ -64,7 +64,7 @@
                         <div class="dashboard_graph">
                             <div class="row x_title">
                                 <div class="col-md-6">
-                                    <h3>Pengaturan</h3>
+                                    <h3>Mata Pelajaran</h3>
                                 </div>
                             </div>
                             <div class="row">
@@ -73,7 +73,6 @@
                                         <a href="/matematika">
                                             <h3>Matematika</h3>
                                         </a>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                                     </p>
                                 </div>
                                 <div class=" col-md-2 offset-4 ">
@@ -87,7 +86,6 @@
                                         <a href="/ipa">
                                             <h3>IPA</h3>
                                         </a>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                                     </p>
                                 </div>
                                 <div class="col-md-2 offset-4 ">
@@ -101,7 +99,6 @@
                                         <a href="/olahraga">
                                             <h3>Olahraga</h3>
                                         </a>
-                                    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                                     </p>
                                 </div>
                                 <div class="col-md-2 offset-4 ">
