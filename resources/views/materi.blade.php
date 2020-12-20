@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="images/favicon.ico" type="image/ico" />
 
-    <title>Dasboard</title>
+    <title>Materi</title>
 
     <!-- Bootstrap -->
     <link href="/LMS/vendors/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -58,62 +58,33 @@
         <div class="row">
             <div class="col-md-12 col-sm-12 ">
                 <div class="dashboard_graph">
-
-                    <div class="row x_title">
-                        <div class="col-md-6">
-                            <h3>Materi</h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="dashboard_graph">
-
                     <div class="row x_title">
                         <div class="col-md-6">
                             <h1>Materi Pembelajaran</h1>
                         </div>
                     </div>
+                </div>
+                <div class="dashboard_graph">
                     <div class="row x_title">
                         <div class="col-md-6">
-                            <h5>Minggu 1</h5>
-                            <h3>Materi 1</h3>
-                            <p>asdasdadas</p>
-                            <p>asdasdasdasdsa</p>
-                            <p>asdasdasdasdas</p>
-                            <p>asdasdasdasdadasdas</p>
+                            <h3>Materi </h3>
+                            <br>
+                            <p>Capaian Pembelajaran : </p>
+                            <p>- Siswa mampu memahami materi yang ada
+                               <br>- Siswa disiplin dalam mengumpulkan tugas
+                               <br>- Siswa disiplin dalam melakukan absensi
+                            </p>
                             <video width="400px" height="200px" controls>
                                 <source src="https://youtu.be/nq2jD-EouJ0">
                             </video>
                             <br>
                             <br>
-                            <a href="Tugas">
-                                <h4>Tugas 1</h4>
+                            <a href="/jawaban">
+                                <h3>Tugas</h3>
                             </a>
                         </div>
                     </div>
-                    <div class="row x_title">
-                        <div class="col-md-6">
-                            <h5>Minggu 2</h5>
-                            <h3>Materi 2</h3>
-                        </div>
-                    </div>
-                    <div class="row x_title">
-                        <div class="col-md-6">
-                            <h5>Minggu 3</h5>
-                            <h3>Materi 3</h3>
-                        </div>
-                    </div>
-                    <div class="row x_title">
-                        <div class="col-md-6">
-                            <h5>Minggu 4</h5>
-                            <h3>Materi 4</h3>
-                        </div>
-                    </div>
-                    <div class="row x_title">
-                        <div class="col-md-6">
-                            <h5>Minggu 5</h5>
-                            <h3>Materi 5</h3>
-                        </div>
-                    </div>
+                    
 
                     {{-- <div class="row">
                                 <div class="col-md-6">

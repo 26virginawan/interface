@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="images/favicon.ico" type="image/ico" />
 
-    <title>Olahraga </title>
+    <title>Ilmu Pengetahuan Sosial </title>
 
     <!-- Bootstrap -->
     <link href="/LMS/vendors/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -54,7 +54,7 @@
                             <div class="row ">
                                 <div class="col-md-6">
                                     <p><img src="img/png/olahraga.png" style=" float:left;" />
-                                    <h3>IPS</h3>
+                                    <h3>Ilmu Pengetahuan Sosial</h3>
                                     </p>
                                 </div>
                             </div>
@@ -72,13 +72,13 @@
                                     <h4> Minggu 1 </h4> <br>
                                     <a href="/materi">
                                         <h4><img src="img/png2/materi.png" style=" float:left;" />
-                                            kerajaan
+                                            Mengenal Kerajaan
                                         </h4>
                                     </a>
                                     <br>
                                     <a href="/jawaban">
                                         <h4><img src="img/png2/tugas.png" style=" float:left;" />
-                                            Tugas
+                                            Tugas Mengenal Kerajaan
                                     </a>
                                     </h4>
                                 </div>
@@ -94,7 +94,7 @@
                                     <br>
                                     <a href="/jawaban">
                                         <h4><img src="img/png2/tugas.png" style=" float:left;" />
-                                            Tugas
+                                            Tugas Destinasi
                                     </a>
                                     </h4>
                                 </div>
@@ -104,13 +104,13 @@
                                     <h4> Minggu 3 </h4> <br>
                                     <a href="/materi">
                                         <h4><img src="img/png2/materi.png" style=" float:left;" />
-                                            Jenis batu
+                                            Peninggalan Sejarah
                                         </h4>
                                     </a>
                                     <br>
                                     <a href="/jawaban">
                                         <h4><img src="img/png2/tugas.png" style=" float:left;" />
-                                            Tugas
+                                            Tugas Peninggalan Sejarah
                                     </a>
                                     </h4>
                                 </div>

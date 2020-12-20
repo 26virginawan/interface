@@ -64,7 +64,8 @@
                         <div class="dashboard_graph">
                             <div class="row x_title">
                                 <div class="col-md-6">
-                                    <h3>Pengaturan</h3>
+                                <p><img src="img/profile.jpg" style=" float:left;" />
+                                    <h1>Pengaturan</h1>
                                 </div>
                             </div>
 

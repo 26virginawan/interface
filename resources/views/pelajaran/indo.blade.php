@@ -72,13 +72,13 @@
                                     <h4> Minggu 1 </h4> <br>
                                     <a href="/materi">
                                         <h4><img src="img/png2/materi.png" style=" float:left;" />
-                                            puisi
+                                            Puisi
                                         </h4>
                                     </a>
                                     <br>
                                     <a href="/jawaban">
                                         <h4><img src="img/png2/tugas.png" style=" float:left;" />
-                                            tugas
+                                            Tugas Puisi
                                     </a>
                                     </h4>
                                 </div>
@@ -88,13 +88,13 @@
                                     <h4> Minggu 2 </h4> <br>
                                     <a href="/materi">
                                         <h4><img src="img/png2/materi.png" style=" float:left;" />
-                                            dongeng
+                                            Dongeng
                                         </h4>
                                     </a>
                                     <br>
                                     <a href="/jawaban">
                                         <h4><img src="img/png2/tugas.png" style=" float:left;" />
-                                            Tugas
+                                            Tugas Dongeng
                                     </a>
                                     </h4>
                                 </div>
@@ -110,7 +110,7 @@
                                     <br>
                                     <a href="/jawaban">
                                         <h4><img src="img/png2/tugas.png" style=" float:left;" />
-                                            Tugas
+                                            Tugas Pantun
                                     </a>
                                     </h4>
                                 </div>

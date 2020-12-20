@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="images/favicon.ico" type="image/ico" />
 
-    <title>Ilmu Pengetahuan Alam </title>
+    <title>Matematika </title>
 
     <!-- Bootstrap -->
     <link href="/LMS/vendors/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -65,7 +65,7 @@
                             <div class="row ">
                                 <div class="col-md-6">
                                     <p><img src="img/png/matematika.png" style=" float:left;" />
-                                    <h3>Ilmu Pengetahuan Alam</h3>
+                                    <h3>Matematika</h3>
                                     </p>
                                 </div>
                             </div>
@@ -77,35 +77,49 @@
                                         </h3>
                                     </a>
                                 </div>
-                                <div class="col-md-2 offset-4 ">
-                                </div>
                             </div>
                             <div class="row x_title">
                                 <div class="col-md-6">
                                     <h4> Minggu 1 </h4> <br>
                                     <a href="/materi">
                                         <h4><img src="img/png2/materi.png" style=" float:left;" />
-                                            Perkembangbiakan Tumbuhan
+                                            Pertambahan dan Pengurangan
                                         </h4>
                                     </a>
                                     <br>
-                                    <h4><img src="img/png2/tugas.png" style=" float:left;" />
-                                        Tugas Perkembangbiakan Tumbuhan
+                                    <a href="/jawaban">
+                                        <h4><img src="img/png2/tugas.png" style=" float:left;" />
+                                            Tugas
+                                    </a>
                                     </h4>
                                 </div>
                             </div>
                             <div class="row x_title">
                                 <div class="col-md-6">
                                     <h4> Minggu 2 </h4> <br>
-                                    <a href="/materi">
-                                        <h4><img src="img/png2/materi.png" style=" float:left;" />
-                                            Pengelompokan Binatang
-                                        </h4>
-                                    </a>
-                                    <br>
-                                    <h4><img src="img/png2/tugas.png" style=" float:left;" />
-                                        Tugas Pengelompokan Binatang
+                                    <h4><img src="img/png2/materi.png" style=" float:left;" />
+                                        Perkalian dan Pembagian
                                     </h4>
+                                    <br>
+                                    <a href="/jawaban">
+                                        <h4><img src="img/png2/tugas.png" style=" float:left;" />
+                                            Tugas
+                                    </a>
+                                        </h4>
+                                </div>
+                            </div>
+                            <div class="row x_title">
+                                <div class="col-md-6">
+                                    <h4> Minggu 3 </h4> <br>
+                                    <h4><img src="img/png2/materi.png" style=" float:left;" />
+                                        Bangun Datar
+                                    </h4>
+                                    <br>
+                                    <a href="/jawaban">
+                                        <h4><img src="img/png2/tugas.png" style=" float:left;" />
+                                            Tugas
+                                    </a>
+                                        </h4>
                                 </div>
                             </div>
                         </div>

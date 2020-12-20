@@ -69,18 +69,44 @@
                         <div class="dashboard_graph">
                             <div class="row x_title">
                                 <div class="col-md-6">
-                                    <h3>Profil</h3>
+                                    <h1>PROFIL</h1>
                                 </div>
                             </div>
                             <div class="jumbotron text-left bg-white">
-                                <img src="img/profil.jpg" class="rounded" />
-                                <h2>DATA DIRI</h2>
+                                <h1>DATA DIRI</h1>
+                                <br>
+                                <img src="img/profile.jpg" class="rounded" />
                                 <hr>
-                                <h2>Nama : Doni Dermawan</h2><br>
-                                <h2>Kota Lahir : Malang</h2><br>
-                                <h2>Tanggal Lahir : 26-oktober-2007</h2><br>
+                                <h2>
+                                <table>
+                                    
+                                    <tr>
+                                        <td>Nama</td>
+                                        <td>: Doni Dermawan</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Kota Lahir</td>
+                                        <td>: Malang</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Tanggal Lahir </td>
+                                        <td>: 26-Oktober-2007</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Alamat</td>
+                                        <td>: Jl.Kenanga, Arjosari</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Nama Ayah</td>
+                                        <td>: Subagio</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Nama Ibu</td>
+                                        <td>: Sarini</td>
+                                    </tr>
+                                </table>
+                                </h2>
                             </div>
-
                         </div>
                     </div>
                 </div>

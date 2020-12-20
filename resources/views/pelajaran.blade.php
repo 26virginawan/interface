@@ -64,7 +64,9 @@
                         <div class="dashboard_graph">
                             <div class="row x_title">
                                 <div class="col-md-6">
-                                    <h3>Mata Pelajaran</h3>
+                                    <p><img src="img/profile.jpg" style=" float:left;" />
+                                    <h1>Mata Pelajaran</h1>
+                                    </p>
                                 </div>
                             </div>
                             <div class="row">
@@ -84,7 +86,7 @@
                                 <div class="col-md-6">
                                     <p><img src="img/png/ipa.png" style=" float:left;" />
                                         <a href="/ipa">
-                                            <h3>IPA</h3>
+                                            <h3>Ilmu Pengetahuan Alam</h3>
                                         </a>
                                     </p>
                                 </div>
@@ -136,7 +138,7 @@
                                 <div class="col-md-6">
                                     <p><img src="img/png/ips.png" style=" float:left;" />
                                         <a href="/ips">
-                                            <h3>Ips</h3>
+                                            <h3>Ilmu Pengetahuan Sosial</h3>
                                         </a>
                                     </p>
                                 </div>

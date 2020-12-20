@@ -72,13 +72,13 @@
                                     <h4> Minggu 1 </h4> <br>
                                     <a href="/materi">
                                         <h4><img src="img/png2/materi.png" style=" float:left;" />
-                                            menggambar
+                                            Teknik Menggambar
                                         </h4>
                                     </a>
                                     <br>
                                     <a href="/jawaban">
                                         <h4><img src="img/png2/tugas.png" style=" float:left;" />
-                                            Tugas
+                                            Tugas Teknik Menggambar
                                     </a>
                                     </h4>
                                 </div>
@@ -88,13 +88,13 @@
                                     <h4> Minggu 2 </h4> <br>
                                     <a href="/materi">
                                         <h4><img src="img/png2/materi.png" style=" float:left;" />
-                                            Mewarnai
+                                            Teknik Mewarnai
                                         </h4>
                                     </a>
                                     <br>
                                     <a href="/jawaban">
                                         <h4><img src="img/png2/tugas.png" style=" float:left;" />
-                                            Tugas
+                                            Tugas Teknik Mewarnai
                                     </a>
                                     </h4>
                                 </div>
@@ -104,13 +104,13 @@
                                     <h4> Minggu 3 </h4> <br>
                                     <a href="/materi">
                                         <h4><img src="img/png2/materi.png" style=" float:left;" />
-                                            menari
+                                            Gerakan Dasar Tari
                                         </h4>
                                     </a>
                                     <br>
                                     <a href="/jawaban">
                                         <h4><img src="img/png2/tugas.png" style=" float:left;" />
-                                            Tugas
+                                            Tugas Gerakan Dasar Tari
                                     </a>
                                     </h4>
                                 </div>

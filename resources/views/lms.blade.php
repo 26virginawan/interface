@@ -53,29 +53,34 @@
                         <div class="dashboard_graph">
                             <div class="row x_title">
                                 <div class="col-md-6">
-                                    <h1>Selamat Datang,</h1>
+                                    <p><img src="img/profile.jpg" style=" float:left;" />
+                                    <h1>Selamat Datang</h1>
+                                    </p>
                                 </div>
-                            </div>
-                            <div class="row ">
-                                <div class="col-sm-12 text-left">
-                                    <h3>Jadwal Pelajaran</h3>
-                                </div>
+                                
                             </div>
                             <div class="row">
+                                <div class="col-sm-12 text-left">
+                                    <h1><center>Jadwal Pelajaran</center></h1>
+                                    <br><br>
+                                </div>
                                 <div class="col-sm-3">
+                                    
                                     <div class="text-left">
                                         <h1>Senin</h1>
+                                        <hr>
                                         <ul>
                                             <li>Matematika</li>
-                                            <li>Bahasa jawa</li>
+                                            <li>Bahasa Indonesia</li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
                                     <div class="text-left">
                                         <h1>Selasa</h1>
+                                        <hr>
                                         <ul>
-                                            <li>Agama</li>
+                                            <li>Seni</li>
                                             <li>Olahraga</li>
                                         </ul>
                                     </div>
@@ -83,9 +88,10 @@
                                 <div class="col-sm-3">
                                     <div class="text-left">
                                         <h1>Rabu</h1>
+                                        <hr>
                                         <ul>
-                                            <li>Pkn</li>
-                                            <li>Ips</li>
+                                            <li>Matematika</li>
+                                            <li>IPS</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -94,15 +100,17 @@
                                 <div class="col-sm-3">
                                     <div class="text-left">
                                         <h1>Kamis</h1>
+                                        <hr>
                                         <ul>
                                             <li>Bahasa Indonesia</li>
-                                            <li>Ipa</li>
+                                            <li>IPA</li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
                                     <div class="text-left">
                                         <h1>Jum'at</h1>
+                                        <hr>
                                         <ul>
                                             <li>Matematika</li>
                                             <li>Seni</li>
@@ -112,8 +120,9 @@
                                 <div class="col-sm-3">
                                     <div class="text-left">
                                         <h1>Sabtu</h1>
+                                        <hr>
                                         <ul>
-                                            <li>Ipa</li>
+                                            <li>IPA</li>
                                             <li>Bahasa Indonesia</li>
                                         </ul>
                                     </div>
@@ -125,7 +134,10 @@
             </div>
         </div>
     </div>
-
+                            </div>
+                            
+                                
+    
 </body>
 
 </html>

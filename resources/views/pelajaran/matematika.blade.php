@@ -89,7 +89,7 @@
                                     <br>
                                     <a href="/jawaban">
                                         <h4><img src="img/png2/tugas.png" style=" float:left;" />
-                                            Tugas
+                                            Tugas Pertambahan dan Pengurangan
                                     </a>
                                     </h4>
                                 </div>
@@ -105,7 +105,7 @@
                                     <br>
                                     <a href="/jawaban">
                                         <h4><img src="img/png2/tugas.png" style=" float:left;" />
-                                            Tugas
+                                            Tugas Perkalian dan Pembagian
                                     </a>
                                     </h4>
                                 </div>
@@ -121,7 +121,7 @@
                                     <br>
                                     <a href="/jawaban">
                                         <h4><img src="img/png2/tugas.png" style=" float:left;" />
-                                            Tugas
+                                            Tugas Bangun Datar
                                     </a>
                                     </h4>
                                 </div>

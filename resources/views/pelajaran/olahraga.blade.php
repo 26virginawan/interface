@@ -78,7 +78,7 @@
                                     <br>
                                     <a href="/jawaban">
                                         <h4><img src="img/png2/tugas.png" style=" float:left;" />
-                                            Tugas
+                                            Tugas Senam
                                     </a>
                                     </h4>
                                 </div>
@@ -94,7 +94,7 @@
                                     <br>
                                     <a href="/jawaban">
                                         <h4><img src="img/png2/tugas.png" style=" float:left;" />
-                                            Tugas
+                                            Tugas Sepak Bola
                                     </a>
                                     </h4>
                                 </div>
@@ -110,7 +110,7 @@
                                     <br>
                                     <a href="/jawaban">
                                         <h4><img src="img/png2/tugas.png" style=" float:left;" />
-                                            Tugas
+                                            Tugas Lari
                                     </a>
                                     </h4>
                                 </div>
