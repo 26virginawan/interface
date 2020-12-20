@@ -106,6 +106,45 @@
                                     <a href="/olahraga" class="fa fa-angle-down fa-5x"></a>
                                 </div>
                             </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p><img src="img/png/indo.png" style=" float:left;" />
+                                        <a href="/indo">
+                                            <h3>Bahasa Indonesia</h3>
+                                        </a>
+                                    </p>
+                                </div>
+                                <div class="col-md-2 offset-4 ">
+                                    <br>
+                                    <a href="/indo" class="fa fa-angle-down fa-5x"></a>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p><img src="img/png/seni.png" style=" float:left;" />
+                                        <a href="/seni">
+                                            <h3>Seni</h3>
+                                        </a>
+                                    </p>
+                                </div>
+                                <div class="col-md-2 offset-4 ">
+                                    <br>
+                                    <a href="/seni" class="fa fa-angle-down fa-5x"></a>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p><img src="img/png/ips.png" style=" float:left;" />
+                                        <a href="/ips">
+                                            <h3>Ips</h3>
+                                        </a>
+                                    </p>
+                                </div>
+                                <div class="col-md-2 offset-4 ">
+                                    <br>
+                                    <a href="/ips" class="fa fa-angle-down fa-5x"></a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

@@ -53,12 +53,12 @@
                         <div class="dashboard_graph">
                             <div class="row ">
                                 <div class="col-md-6">
-                                    <h3>Matematika</h3>
+                                    <h3>Pengumpulan Tugas</h3>
                                 </div>
                             </div>
                             <div class="row x_title ">
                                 <div class="col-sm-12 text-left">
-                                    <h3>Pengumpulan tugas</h3>
+                                    <h3>Tugas </h3>
                                 </div>
                             </div>
 

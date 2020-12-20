@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="images/favicon.ico" type="image/ico" />
 
-    <title>IPA </title>
+    <title>Bahasa Indonesia </title>
 
     <!-- Bootstrap -->
     <link href="/LMS/vendors/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -46,17 +46,6 @@
                 </div>
             </div>
 
-            <!-- top navigation -->
-
-            <!-- <div class="top_nav">
-                <div class="nav_menu" id="navbarResponsive">
-                    <div class="nav toggle">
-                        <a id="menu_toggle"><i class="fa fa-bars"></i></a>
-                    </div>
-                </div>
-            </div> -->
-            <!-- /top navigation -->
-
             <!-- page content -->
             <div class="right_col" role="main">
                 <div class="row">
@@ -64,8 +53,8 @@
                         <div class="dashboard_graph">
                             <div class="row ">
                                 <div class="col-md-6">
-                                    <p><img src="img/png/matematika.png" style=" float:left;" />
-                                    <h3>Ipa</h3>
+                                    <p><img src="img/png/indo.png" style=" float:left;" />
+                                    <h3>Bahasa Indonesia</h3>
                                     </p>
                                 </div>
                             </div>
@@ -77,37 +66,53 @@
                                         </h3>
                                     </a>
                                 </div>
-                                <div class="col-md-2 offset-4 ">
-                                </div>
                             </div>
                             <div class="row x_title">
                                 <div class="col-md-6">
                                     <h4> Minggu 1 </h4> <br>
-                                    <h3><img src="img/png2/materi.png" style=" float:left;" />
-                                        macam daun
-                                    </h3>
+                                    <a href="/materi">
+                                        <h4><img src="img/png2/materi.png" style=" float:left;" />
+                                            puisi
+                                        </h4>
+                                    </a>
                                     <br>
-                                    <h3><img src="img/png2/tugas.png" style=" float:left;" />
-                                        Tugas macam daun
-                                        <h2>Lorem ipsum dolor sit, amet consectetur adipisicing elit.<br> Ducimus
-                                            explicabo
-                                            nesciunt ullam qui porro est veniam quam eum expedita?</h2>
-                                    </h3>
+                                    <a href="/jawaban">
+                                        <h4><img src="img/png2/tugas.png" style=" float:left;" />
+                                            tugas
+                                    </a>
+                                    </h4>
                                 </div>
                             </div>
                             <div class="row x_title">
                                 <div class="col-md-6">
                                     <h4> Minggu 2 </h4> <br>
-                                    <h3><img src="img/png2/materi.png" style=" float:left;" />
-                                        jenis akar
-                                    </h3>
+                                    <a href="/materi">
+                                        <h4><img src="img/png2/materi.png" style=" float:left;" />
+                                            dongeng
+                                        </h4>
+                                    </a>
                                     <br>
-                                    <h3><img src="img/png2/tugas.png" style=" float:left;" />
-                                        Tugas jenis akar
-                                        <h2>Lorem ipsum dolor sit, amet consectetur adipisicing elit.<br> Ducimus
-                                            explicabo
-                                            nesciunt ullam qui porro est veniam quam eum expedita?</h2>
-                                    </h3>
+                                    <a href="/jawaban">
+                                        <h4><img src="img/png2/tugas.png" style=" float:left;" />
+                                            Tugas
+                                    </a>
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="row x_title">
+                                <div class="col-md-6">
+                                    <a href="/materi">
+                                        <h4> Minggu 3 </h4> <br>
+                                        <h4><img src="img/png2/materi.png" style=" float:left;" />
+                                            Pantun
+                                        </h4>
+                                    </a>
+                                    <br>
+                                    <a href="/jawaban">
+                                        <h4><img src="img/png2/tugas.png" style=" float:left;" />
+                                            Tugas
+                                    </a>
+                                    </h4>
                                 </div>
                             </div>
                         </div>

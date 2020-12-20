@@ -61,7 +61,7 @@
 
                     <div class="row x_title">
                         <div class="col-md-6">
-                            <h3>Matematika</h3>
+                            <h3>Materi</h3>
                         </div>
                     </div>
                 </div>
@@ -75,7 +75,7 @@
                     <div class="row x_title">
                         <div class="col-md-6">
                             <h5>Minggu 1</h5>
-                            <h3>Pengurangan Dan Penjumlahan</h3>
+                            <h3>Materi 1</h3>
                             <p>asdasdadas</p>
                             <p>asdasdasdasdsa</p>
                             <p>asdasdasdasdas</p>
@@ -93,25 +93,25 @@
                     <div class="row x_title">
                         <div class="col-md-6">
                             <h5>Minggu 2</h5>
-                            <h3>Perkalian</h3>
+                            <h3>Materi 2</h3>
                         </div>
                     </div>
                     <div class="row x_title">
                         <div class="col-md-6">
                             <h5>Minggu 3</h5>
-                            <h3>Pembagian</h3>
+                            <h3>Materi 3</h3>
                         </div>
                     </div>
                     <div class="row x_title">
                         <div class="col-md-6">
                             <h5>Minggu 4</h5>
-                            <h3>Bangun Datar</h3>
+                            <h3>Materi 4</h3>
                         </div>
                     </div>
                     <div class="row x_title">
                         <div class="col-md-6">
                             <h5>Minggu 5</h5>
-                            <h3>Bangun Datar</h3>
+                            <h3>Materi 5</h3>
                         </div>
                     </div>
 

@@ -53,7 +53,7 @@
                         <div class="dashboard_graph">
                             <div class="row ">
                                 <div class="col-md-6">
-                                    <h1>Matematika</h1>
+                                    <h1>Daftar Hadir</h1>
                                 </div>
                             </div>
                             <div class="row x_title ">
@@ -95,7 +95,7 @@
                             </div>
                             <div class="row">
                                 <div class="col-sm-12">
-                                    <a href="matematika"><button type="button"
+                                    <a href="pelajaran"><button type="button"
                                             class="btn btn-success btn-lg">Simpan</button></a>
                                 </div>
                             </div>

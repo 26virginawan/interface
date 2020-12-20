@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="images/favicon.ico" type="image/ico" />
 
-    <title>Matematika </title>
+    <title>Seni </title>
 
     <!-- Bootstrap -->
     <link href="/LMS/vendors/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -46,17 +46,6 @@
                 </div>
             </div>
 
-            <!-- top navigation -->
-
-            <!-- <div class="top_nav">
-                <div class="nav_menu" id="navbarResponsive">
-                    <div class="nav toggle">
-                        <a id="menu_toggle"><i class="fa fa-bars"></i></a>
-                    </div>
-                </div>
-            </div> -->
-            <!-- /top navigation -->
-
             <!-- page content -->
             <div class="right_col" role="main">
                 <div class="row">
@@ -64,8 +53,8 @@
                         <div class="dashboard_graph">
                             <div class="row ">
                                 <div class="col-md-6">
-                                    <p><img src="img/png/matematika.png" style=" float:left;" />
-                                    <h3>Matematika</h3>
+                                    <p><img src="img/png/seni.png" style=" float:left;" />
+                                    <h3>Seni</h3>
                                     </p>
                                 </div>
                             </div>
@@ -83,7 +72,7 @@
                                     <h4> Minggu 1 </h4> <br>
                                     <a href="/materi">
                                         <h4><img src="img/png2/materi.png" style=" float:left;" />
-                                            Pertambahan dan Pengurangan
+                                            menggambar
                                         </h4>
                                     </a>
                                     <br>
@@ -97,29 +86,33 @@
                             <div class="row x_title">
                                 <div class="col-md-6">
                                     <h4> Minggu 2 </h4> <br>
-                                    <h4><img src="img/png2/materi.png" style=" float:left;" />
-                                        Perkalian dan Pembagian
-                                    </h4>
+                                    <a href="/materi">
+                                        <h4><img src="img/png2/materi.png" style=" float:left;" />
+                                            Mewarnai
+                                        </h4>
+                                    </a>
                                     <br>
                                     <a href="/jawaban">
                                         <h4><img src="img/png2/tugas.png" style=" float:left;" />
                                             Tugas
                                     </a>
-                                        </h4>
+                                    </h4>
                                 </div>
                             </div>
                             <div class="row x_title">
                                 <div class="col-md-6">
                                     <h4> Minggu 3 </h4> <br>
-                                    <h4><img src="img/png2/materi.png" style=" float:left;" />
-                                        Bangun Datar
-                                    </h4>
+                                    <a href="/materi">
+                                        <h4><img src="img/png2/materi.png" style=" float:left;" />
+                                            menari
+                                        </h4>
+                                    </a>
                                     <br>
                                     <a href="/jawaban">
                                         <h4><img src="img/png2/tugas.png" style=" float:left;" />
                                             Tugas
                                     </a>
-                                        </h4>
+                                    </h4>
                                 </div>
                             </div>
                         </div>
